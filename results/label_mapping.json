@@ -1,0 +1,12 @@
+{
+    "original_labels": "1-6",
+    "converted_labels": "0-5",
+    "activity_mapping": {
+        "0": "WALKING",
+        "1": "WALKING_UPSTAIRS",
+        "2": "WALKING_DOWNSTAIRS",
+        "3": "SITTING",
+        "4": "STANDING",
+        "5": "LAYING"
+    }
+}
